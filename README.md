@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Gombár Martin
+
+if github education doesnt accept then I'll dgdsgsgbfd
 
 <!--
 **Kedves1/Kedves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
